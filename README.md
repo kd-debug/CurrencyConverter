@@ -1,12 +1,36 @@
-# React + Vite
+# 💱 Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Currency Converter web application built using **React.js**. It allows users to convert any amount from one currency to another using live exchange rates.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔁 Conversion between all world currencies
+- 🌍 Real-time exchange rates via API
+- 📱 Fully responsive for mobile and desktop
+- 🔎 Clear and user-friendly UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js (Hooks, Functional Components)
+- **Styling:** CSS / Tailwind 
+- **API:** [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api) (free, no API key required)
+
+---
+
+## 📸 Screenshots
+
+<!-- Add your app screenshots here -->
+![image](https://github.com/user-attachments/assets/14a70066-1b57-4b79-a155-4ce5cc329520)
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kd-debug/CurrencyConverter.git
+cd CurrencyConverter
